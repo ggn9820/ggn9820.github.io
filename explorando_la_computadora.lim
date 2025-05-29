@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>8080FF</corbanda>
+        <cornavega>DA96E9</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Las Partes de una Computadora</titulo>
+        <subtitulo>Elementos esenciales para el funcionamiento del equipo.</subtitulo>
+        <autor>George Guerrero Nuñez</autor>
+        <logo>Logo.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">1.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">2.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">3.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">4.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">5.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">6.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">7.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">8.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">9.png</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">10.png</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">11.png</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">12.png</imaxe>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">13.png</imaxe>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">14.png</imaxe>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">15.png</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">16.png</imaxe>
+        </paxina>
+        <paxina id="17" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Monitor">monitor.jpg</cousa>
+              <cousa nome="Teclado">teclado.jpg</cousa>
+              <cousa nome="Mouse">Mouse.jpg</cousa>
+              <cousa nome="CPU">CPU.png</cousa>
+              <cousa nome="Camara">camara.jpeg</cousa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>3</tipo>
+              <imaxe>PC.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>51</tipo>
+              <valor>10</valor>
+              <peza imaxe="monitor.jpg">1</peza>
+              <peza imaxe="Mouse.jpg">2</peza>
+              <forma>1</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>46</tipo>
+              <etiqueta texto="Teclado"  posy="6">Muestra imágenes y videos.</etiqueta>
+              <etiqueta texto="Camara"  posy="5">Procesa las instrucciones.</etiqueta>
+              <etiqueta texto="Mouse"  posy="1">Permite escribir y dar comandos.</etiqueta>
+              <etiqueta texto="Altavoces"  posy="3">Mueve el cursor y permite hacer clic.</etiqueta>
+              <etiqueta texto="CPU"  posy="4">Reproducen sonidos.</etiqueta>
+              <etiqueta texto="Monitor"  posy="2">Captura imágenes y videos.</etiqueta>
+        </paxina>
+    </libro>
+</lim>
